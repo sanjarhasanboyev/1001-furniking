@@ -310,3 +310,70 @@ body {
    padding: 31px;
    margin-bottom: 17px;
 }
+
+
+/* comments */
+.customer-comment {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 45px;
+}
+
+.customers {
+   margin-top: 120px;
+   margin-bottom: 115px;
+
+}
+
+.customers h1 {
+   text-transform: uppercase;
+   text-align: center;
+   color: #555555;
+   margin-bottom: 80px;
+}
+
+.customer-comment i {
+   font-size: 40px;
+   color: #CCCCCC;
+}
+
+.comment {
+   width: 816px;
+   text-align: center;
+   background-color: #F8FAFB;
+   padding-bottom: 47px;
+
+}
+
+.comment p {
+   margin: 0px 0 32px 0;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 24px;
+   letter-spacing: 0.005em;
+   color: #515151;
+   padding: 0px 125px 0px 125px;
+}
+
+.comment h3 {
+   font-size: 24px;
+   font-weight: 500;
+   line-height: 28.8px;
+   letter-spacing: 0.005em;
+   color: #555555;
+   margin-bottom: 8px;
+}
+
+.comment span {
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 20px;
+   letter-spacing: 0.005em;
+   color: #515151;
+}
+
+.comment img {
+   position: relative;
+   top: -45px;
+}
